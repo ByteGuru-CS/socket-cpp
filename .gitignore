@@ -26,6 +26,7 @@ Thumbs.db
 
 # Compiled C++ files
 *.out
+build/
 
 # Application specific files
 venv
